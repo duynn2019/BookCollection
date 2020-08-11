@@ -5,3 +5,6 @@
 
 ## Neural network
 1. [Opennn](https://www.opennn.net/documentation/the_software_model_of_opennn.html)
+
+## Python library
+1. https://www.lfd.uci.edu/~gohlke/pythonlibs/
