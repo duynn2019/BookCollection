@@ -7,7 +7,7 @@
 1. [Opennn](https://www.opennn.net/documentation/the_software_model_of_opennn.html)
 2. [MNN](https://github.com/alibaba/MNN)
 3. [TNN](https://github.com/Tencent/TNN)
-
+4. [Pytorch tutorial](https://github.com/ritchieng/the-incredible-pytorch)
 ## Python library
 1. https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
