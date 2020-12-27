@@ -14,3 +14,7 @@
 ## Autonomous Vehicles
 1. [apollo](https://github.com/ApolloAuto/apollo)
 2. [Autoware ](https://github.com/Autoware-AI/autoware.ai)
+
+
+## Basic Math
+1. [Numerical Methods for Engineers](http://folk.ntnu.no/leifh/teaching/tkt4140/._main000.html)
